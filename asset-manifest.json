@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-recipes-generator/static/css/main.c549ce9c.chunk.css",
+    "main.js": "/react-recipes-generator/static/js/main.7618f286.chunk.js",
+    "main.js.map": "/react-recipes-generator/static/js/main.7618f286.chunk.js.map",
+    "runtime-main.js": "/react-recipes-generator/static/js/runtime-main.f8dda438.js",
+    "runtime-main.js.map": "/react-recipes-generator/static/js/runtime-main.f8dda438.js.map",
+    "static/js/2.953e3c0e.chunk.js": "/react-recipes-generator/static/js/2.953e3c0e.chunk.js",
+    "static/js/2.953e3c0e.chunk.js.map": "/react-recipes-generator/static/js/2.953e3c0e.chunk.js.map",
+    "index.html": "/react-recipes-generator/index.html",
+    "precache-manifest.5e4c771fb06178a1c0218d080a8388af.js": "/react-recipes-generator/precache-manifest.5e4c771fb06178a1c0218d080a8388af.js",
+    "service-worker.js": "/react-recipes-generator/service-worker.js",
+    "static/css/main.c549ce9c.chunk.css.map": "/react-recipes-generator/static/css/main.c549ce9c.chunk.css.map",
+    "static/js/2.953e3c0e.chunk.js.LICENSE.txt": "/react-recipes-generator/static/js/2.953e3c0e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8dda438.js",
+    "static/js/2.953e3c0e.chunk.js",
+    "static/css/main.c549ce9c.chunk.css",
+    "static/js/main.7618f286.chunk.js"
+  ]
+}
